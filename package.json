@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "react-router-dom": "^7.18.4"
+  },
+  "scripts": {
+    "generate-pwa-assets": "pwa-assets-generator"
+  }
+}
